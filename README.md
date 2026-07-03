@@ -1,0 +1,2 @@
+# IoT-Enabled-CO2-capture-and-carbonation-curing-system-for-sustainable-precast-curing-blocks
+IoT-Enabled CO₂ Capture and Carbonation Curing System captures CO₂ and uses it to cure concrete blocks, improving their strength while reducing emissions. The system uses an ESP32, MQ135 gas sensor, OLED display, and IoT monitoring for real-time CO₂ measurement. It provides a low-cost, sustainable solution for small and medium-scale industries.
